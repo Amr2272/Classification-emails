@@ -51,6 +51,4 @@ Open the provided local URL, paste an email, and click Predict.
 - The model uses TF-IDF features with SMOTE and Multinomial Naive Bayes.
 - The dataset is expected at Data/spam.csv with columns: message, class (ham/spam).
 
-## License
 
-Add a license if you plan to distribute this project.
